@@ -1,0 +1,6 @@
+/Users/marius/Projects/CubicEquationv2/CubicEquationv2/bin/Debug/CubicEquationv2.exe
+/Users/marius/Projects/CubicEquationv2/CubicEquationv2/bin/Debug/CubicEquationv2.pdb
+/Users/marius/Projects/CubicEquationv2/CubicEquationv2/obj/anycpu/Debug/CubicEquationv2.csproj.AssemblyReference.cache
+/Users/marius/Projects/CubicEquationv2/CubicEquationv2/obj/anycpu/Debug/CubicEquationv2.csproj.CoreCompileInputs.cache
+/Users/marius/Projects/CubicEquationv2/CubicEquationv2/obj/anycpu/Debug/CubicEquationv2.exe
+/Users/marius/Projects/CubicEquationv2/CubicEquationv2/obj/anycpu/Debug/CubicEquationv2.pdb
